@@ -1,0 +1,6 @@
+[submodule "vim-gitgutter"]
+	path = vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe
