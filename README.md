@@ -16,4 +16,8 @@ Compile YouCompleteMe
 ========================
 
     cd ~/.janus/YouCompleteMe
+    ./install.sh
+
+Or With C completer support: (ensure correct libs are in place)
+
     ./install.sh --clang-completer
